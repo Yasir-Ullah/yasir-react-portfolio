@@ -1,13 +1,13 @@
 function Projects() {
   const projects = [
     {
-      title: "Grocify",
+      title: "Microsoft Clone",
       description:
         "A responsive grocery shopping website built with React and Tailwind CSS.",
       tech: "React • Tailwind CSS • JavaScript",
-      liveLink: "https://grocify-grocery-website.vercel.app",
-      githubLink: "https://github.com/Yasir-Ullah/grocify-grocery-website",
-      img: "/grocify.png",
+      liveLink: "https://microsoft-homepage-tailwindcss-rfbk.vercel.app/",
+      githubLink: "https://github.com/Yasir-Ullah/microsoft-homepage-clone",
+      img: "/micro.png",
     },
     {
       title: "Blinkit UI Clone",
@@ -29,15 +29,14 @@ function Projects() {
       img: "/todo.png",
     },
     {
-      title: "Popup Notification",
+      title: "Notes App",
 
       description:
-        "A responsive popup notification application built with HTML, CSS, and JavaScript with smooth animations and interactive notifications.",
+        "A modern and responsive notes application built with HTML, CSS, and JavaScript. Create, save, edit, and delete notes easily using local storage.",
       tech: "HTML • CSS • JavaScript",
-      liveLink: "https://random-password-generator-js-rg9d.vercel.app/",
-      githubLink:
-        "https://github.com/Yasir-Ullah/responsive-popup-notification",
-      img: "/pop.png",
+      liveLink: "https://notes-app-yasir18.vercel.app/",
+      githubLink: "https://github.com/Yasir-Ullah/notes-app",
+      img: "/notes.png",
     },
     {
       title: "JavaScript Calculator",
