@@ -20,12 +20,13 @@ function Projects() {
       img: "/blinkit.png",
     },
     {
-      title: "DoorHub",
-      description: "A modern landing page created using Tailwind CSS.",
+      title: "Todo-App",
+      description:
+        "A modern and responsive Todo App to add, manage, and track daily tasks.",
       tech: "HTML • Tailwind CSS",
-      liveLink: "https://door-hub-seven.vercel.app/",
-      githubLink: "https://github.com/Yasir-Ullah/DoorHub",
-      img: "/doorhub.png",
+      liveLink: "https://todo-app-yasir18.vercel.app/",
+      githubLink: "https://github.com/Yasir-Ullah/todo-app",
+      img: "/todo.png",
     },
     {
       title: "Popup Notification",

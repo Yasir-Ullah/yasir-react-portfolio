@@ -22,13 +22,12 @@ function App() {
       <Footer />
       {/* Download CV Button */}{" "}
       <a
-        href="/Yasir-Hamed-CV.pdf"
+        href="/Yasir%20CV.pdf"
         download="Yasir-Hamed-CV.pdf"
         className="cv-button"
         aria-label="Download CV"
       >
-        {" "}
-        <i className="fas fa-download"></i> <span>Download CV</span>{" "}
+        Download CV
       </a>
       <a
         href="https://wa.me/923001234567"
