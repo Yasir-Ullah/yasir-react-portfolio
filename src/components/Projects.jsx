@@ -39,20 +39,23 @@ function Projects() {
       img: "/notes.png",
     },
     {
-      title: "JavaScript Calculator",
-      description: "A simple calculator application built using JavaScript.",
+      title: "Tic-Tac-Toe-Game ",
+      description:
+        "An interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play against a friend, track the winner, and restart the game.",
       tech: "HTML • CSS • JavaScript",
-      liveLink: "https://calculator-project-five-sage.vercel.app/",
-      githubLink: "https://github.com/Yasir-Ullah/calculator-project",
-      img: "/calculator.png",
+      liveLink: "https://tic-tac-toe-yasir18.vercel.app/",
+      githubLink: "https://github.com/Yasir-Ullah/tic-tac-toe-",
+      img: "/tictac.png",
     },
+
     {
-      title: "QR Code Generator",
-      description: "Generate QR codes dynamically using JavaScript and an API.",
-      tech: "JavaScript • API",
-      liveLink: "https://random-password-generator-js-ashen.vercel.app/",
-      githubLink: "https://github.com/Yasir-Ullah/random-password-generator-js",
-      img: "/qr-code.png",
+      title: "Grocify",
+      description:
+        "A modern and responsive grocery shopping website built with React and Tailwind CSS, featuring an attractive user interface, product browsing, and a smooth shopping experience.",
+      tech: "React • Tailwind CSS",
+      liveLink: "https://grocify-grocery-website.vercel.app/",
+      githubLink: "https://github.com/Yasir-Ullah/grocify-grocery-website",
+      img: "/grocify.png",
     },
   ];
 
