@@ -49,7 +49,7 @@ function Contact() {
               <span>📧</span>
               <div>
                 <strong>Email</strong>
-                <p>your-email@example.com</p>
+                <p>yasirjsdev@gmail.com</p>
               </div>
             </div>
 
@@ -57,7 +57,7 @@ function Contact() {
               <span>📍</span>
               <div>
                 <strong>Location</strong>
-                <p>Pakistan</p>
+                <p>Peshawar</p>
               </div>
             </div>
 
