@@ -61,13 +61,13 @@ function Contact() {
               </div>
             </div>
 
-            <div className="contact-item">
+            {/* <div className="contact-item">
               <span>💼</span>
               <div>
                 <strong>Available For</strong>
                 <p>Freelance Projects</p>
               </div>
-            </div>
+            </div> */}
           </div>
 
           <form className="contact-form" onSubmit={handleSubmit}>
